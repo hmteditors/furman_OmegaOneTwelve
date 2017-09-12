@@ -7,7 +7,7 @@
 
 - [85r](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:e4img.2017a:e4_466)
 - [85v](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:e4img.2017a:e4_160)
-- [86r](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:e4img.2017a:e4_465)k
+- [86r](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:e4img.2017a:e4_465)
 
 ## Resources
 
