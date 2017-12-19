@@ -1,5 +1,5 @@
 Folio,Line URNs
-urn:cite2:hmt:e4.v1:1r,urn:cts:greekLit:tlg0012.tlg001.e4:1.1-1.12
+urn:cite2:hmt:e4.v1:1r,
 urn:cite2:hmt:e4.v1:1v,
 urn:cite2:hmt:e4.v1:2r,
 urn:cite2:hmt:e4.v1:2v,
@@ -11,12 +11,12 @@ urn:cite2:hmt:e4.v1:5r,
 urn:cite2:hmt:e4.v1:5v,
 urn:cite2:hmt:e4.v1:6r,
 urn:cite2:hmt:e4.v1:6v,
-urn:cite2:hmt:e4.v1:7r,
-urn:cite2:hmt:e4.v1:7v,
-urn:cite2:hmt:e4.v1:8r,
-urn:cite2:hmt:e4.v1:8v,
-urn:cite2:hmt:e4.v1:9r,
-urn:cite2:hmt:e4.v1:9v,
+urn:cite2:hmt:e4.v1:7r,urn:cts:greekLit:tlg0012.tlg001.e4:1.1-1.34
+urn:cite2:hmt:e4.v1:7v,urn:cts:greekLit:tlg0012.tlg001.e4:1.35-1.73
+urn:cite2:hmt:e4.v1:8r,urn:cts:greekLit:tlg0012.tlg001.e4:1.74-1.112
+urn:cite2:hmt:e4.v1:8v,urn:cts:greekLit:tlg0012.tlg001.e4:1.113-1.151
+urn:cite2:hmt:e4.v1:9r,urn:cts:greekLit:tlg0012.tlg001.e4:1.152-1.189
+urn:cite2:hmt:e4.v1:9v,urn:cts:greekLit:tlg0012.tlg001.e4:1.190-1.228
 urn:cite2:hmt:e4.v1:10r,urn:cts:greekLit:tlg0012.tlg001.e4:1.229-1.268
 urn:cite2:hmt:e4.v1:10v,urn:cts:greekLit:tlg0012.tlg001.e4:1.269-1.307
 urn:cite2:hmt:e4.v1:11r,urn:cts:greekLit:tlg0012.tlg001.e4:1.308-1.346
