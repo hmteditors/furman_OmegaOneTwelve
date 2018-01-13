@@ -7,7 +7,7 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:3.65-3.66
 - urn:cts:greekLit:tlg0012.tlg001.e4:3.121-3.122
 - urn:cts:greekLit:tlg0012.tlg001.e4:3.277-3.301
-- 
+- urn:cts:greekLit:tlg0012.tlg001.e4:5.770-5.771
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
@@ -24,7 +24,7 @@
 - Odd tau over squiggle and double dots left of urn:cts:greekLit:tlg0012.tlg001.e4:2.102 
 - Beta at the start of urn:cts:greekLit:tlg0012.tlg001.e4:2.494 is an especially ornate capital for the middle of a book. It begins the Catalogue of Ships.
 - There is a red zeta, eta, superscript tau, and circle with a slash through it to the left of urn:cts:greekLit:tlg0012.tlg001.e4:4.333, these indicate that the following lines, 334-336, are out of sequence. The lines in question appear at the bottom of the main page. The circle with a slash could be a marker for moving or omission and the red zeta, eta, superscript tau could suggest a reading of Zenodotus. Need to keep an eye out for similar occurences.
-
+- Line 5.300 has a blue mark next to it giving the line number. I'm not sure whose hand it is because I haven't seen that ink color before and it is only three characters. so hard to distinguish from the other scripts. urn:cite2:hmt:e4.v1:43v
 # Atypical Pages:
 - urn:cite2:hmt:e4.v1:1r
 - urn:cite2:hmt:e4.v1:1v
@@ -58,3 +58,11 @@
 - The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:4.358 on urn:cite2:hmt:e4.v1:37v is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/11/18)
 - The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:4.370 on urn:cite2:hmt:e4.v1:37v is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/11/18)
 - The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:4.404 on urn:cite2:hmt:e4.v1:38r is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/11/18)
+- The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:5.171 on urn:cite2:hmt:e4.v1:42r begins as speech and is outdented, but it is black. For now, I have ruled it an outdent without rubrication. (1/12/18)
+- The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:5.421 on urn:cite2:hmt:e4.v1:45r is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/12/18)
+- The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:5.472 on urn:cite2:hmt:e4.v1:46r is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/12/18)
+- The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:5.633 on urn:cite2:hmt:e4.v1:48r is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/12/18)
+- The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:5.756 on urn:cite2:hmt:e4.v1:49v is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/12/18)
+- urn:cts:greekLit:tlg0012.tlg001.e4:5.778 on urn:cite2:hmt:e4.v1:49v has a variant reading to the standard text with αἱ in the place of τὼ. (1/12/18)
+- On urn:cite2:hmt:e4.v1:50v, urn:cts:greekLit:tlg0012.tlg001.e4:5.846 has been placed between urn:cts:greekLit:tlg0012.tlg001.e4:5.842 and urn:cts:greekLit:tlg0012.tlg001.e4:5.841. It is written in a slightly different hand. (1/12/18)
+- The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:5.872 on urn:cite2:hmt:e4.v1:51r is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/12/18)
