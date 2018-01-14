@@ -8,6 +8,8 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:3.121-3.122
 - urn:cts:greekLit:tlg0012.tlg001.e4:3.277-3.301
 - urn:cts:greekLit:tlg0012.tlg001.e4:5.770-5.771
+- urn:cts:greekLit:tlg0012.tlg001.e4:6.201-6.202
+- 
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
