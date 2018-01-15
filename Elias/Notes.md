@@ -96,4 +96,4 @@
 - On urn:cite2:hmt:e4.v1:50v, urn:cts:greekLit:tlg0012.tlg001.e4:5.846 has been placed between urn:cts:greekLit:tlg0012.tlg001.e4:5.842 and urn:cts:greekLit:tlg0012.tlg001.e4:5.841. It is written in a slightly different hand. (1/12/18)
 - The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:5.872 on urn:cite2:hmt:e4.v1:51r is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/12/18)
 - The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:7.226 on urn:cite2:hmt:e4.v1:61v is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/14/18)
-- Line urn:cts:greekLit:tlg0012.tlg001.e4:8.149 has been moved out of standard sequence to the bottom of urn:cite2:hmt:e4.v1:68v. I am unsure how to handle the line enumeration.
+- Line urn:cts:greekLit:tlg0012.tlg001.e4:8.149 has been moved out of standard sequence to the bottom of urn:cite2:hmt:e4.v1:68v. I am unsure how to handle the line enumeration. (1/14/18)
