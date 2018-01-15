@@ -45,7 +45,7 @@
 # Image Issues:
 - The image for urn:cite2:hmt:e4.v1:30v is upside down.
 - urn:cite2:hmt:e4.v1:59v has two images.
-- urn:cite2:hmt:e4.v1:66r and urn:cite2:hmt:e4.v1:66v appear to be missing. The image labelled as urn:cite2:hmt:e4.v1:67r begins Bk. 8, but urn:cite2:hmt:e4.v1:65v is commentary, so it's possible that two pages of commentary are missing or the labeling has gotten off-kilter. On further examination, this appears to be an off-by-one error. But, there is a mark in the upper right hand corner of the page labelled urn:cite2:hmt:e4.v1:67r that could be a number 67.
+- urn:cite2:hmt:e4.v1:66r and urn:cite2:hmt:e4.v1:66v appear to be missing. The image labelled as urn:cite2:hmt:e4.v1:67r begins Bk. 8, but urn:cite2:hmt:e4.v1:65v is commentary, so it's possible that two pages of commentary are missing or the labeling has gotten off-kilter. On further examination, this appears to be an off-by-one error. But, there is a mark in the upper right hand corner of the page labelled urn:cite2:hmt:e4.v1:67r that could be a number 67. Where are 66 recto and verso?
 
 # Questions/Notes:
 - Is an outdent more important than rubrication? At urn:cts:greekLit:tlg0012.tlg001.e4:2.48 on urn:cite2:hmt:e4.v1:15v, there is an outdent, but the η is black. This is a spot where Willcock has a paragraph break. For now (1/1/18), I have considered it part of a larger paragraph because every other place I would consider the outdent a paragraph it is red.
