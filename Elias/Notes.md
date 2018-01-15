@@ -46,19 +46,23 @@
 - Line 5.300 has a blue mark next to it giving the line number. I'm not sure whose hand it is because I haven't seen that ink color before and it is only three characters. so hard to distinguish from the other scripts. urn:cite2:hmt:e4.v1:43v
 
 # Atypical Pages:
-- urn:cite2:hmt:e4.v1:1r
-- urn:cite2:hmt:e4.v1:1v
-- urn:cite2:hmt:e4.v1:2r
-- urn:cite2:hmt:e4.v1:2v
-- urn:cite2:hmt:e4.v1:3r
-- urn:cite2:hmt:e4.v1:3v
-- urn:cite2:hmt:e4.v1:4r
-- urn:cite2:hmt:e4.v1:4v
-- urn:cite2:hmt:e4.v1:5r
-- urn:cite2:hmt:e4.v1:5v
-- urn:cite2:hmt:e4.v1:6r
-- urn:cite2:hmt:e4.v1:6v
-- urn:cite2:hmt:e4.v1:21v
+- urn:cite2:hmt:e4.v1:1r (COMMENTARY)
+- urn:cite2:hmt:e4.v1:1v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:2r (COMMENTARY)
+- urn:cite2:hmt:e4.v1:2v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:3r (COMMENTARY)
+- urn:cite2:hmt:e4.v1:3v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:4r (COMMENTARY)
+- urn:cite2:hmt:e4.v1:4v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:5r (COMMENTARY)
+- urn:cite2:hmt:e4.v1:5v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:6r (COMMENTARY)
+- urn:cite2:hmt:e4.v1:6v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:21v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:65v	(COMMENTARY)
+- urn:cite2:hmt:e4.v1:66r	(MISSING)
+- urn:cite2:hmt:e4.v1:66v (MISSING)
+- urn:cite2:hmt:e4.v1:74v (COMMENTARY)
 
 # Image Issues:
 - The image for urn:cite2:hmt:e4.v1:30v is upside down.
