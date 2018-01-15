@@ -11,7 +11,8 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:6.201-6.202
 - urn:cts:greekLit:tlg0012.tlg001.e4:7.8-7.10
 - urn:cts:greekLit:tlg0012.tlg001.e4:8.69-8.74
-- 
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.233-8.235
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.323-8.329
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
@@ -24,6 +25,18 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:4.336 (OUT OF SEQUENCE)
 - urn:cts:greekLit:tlg0012.tlg001.e4:8.123
 - urn:cts:greekLit:tlg0012.tlg001.e4:8.149 (OUT OF SEQUENCE)
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.183 
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.224
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.225
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.226
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.277
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.466
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.467
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.468
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.548
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.550
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.551
+- urn:cts:greekLit:tlg0012.tlg001.e4:8.552
 
 # Weird Marks:
 - Odd squared off mark in red ink to the left of urn:cts:greekLit:tlg0012.tlg001.e4:1.296
@@ -31,6 +44,7 @@
 - Beta at the start of urn:cts:greekLit:tlg0012.tlg001.e4:2.494 is an especially ornate capital for the middle of a book. It begins the Catalogue of Ships.
 - There is a red zeta, eta, superscript tau, and circle with a slash through it to the left of urn:cts:greekLit:tlg0012.tlg001.e4:4.333, these indicate that the following lines, 334-336, are out of sequence. The lines in question appear at the bottom of the main page. The circle with a slash could be a marker for moving or omission and the red zeta, eta, superscript tau could suggest a reading of Zenodotus. Need to keep an eye out for similar occurences.
 - Line 5.300 has a blue mark next to it giving the line number. I'm not sure whose hand it is because I haven't seen that ink color before and it is only three characters. so hard to distinguish from the other scripts. urn:cite2:hmt:e4.v1:43v
+
 # Atypical Pages:
 - urn:cite2:hmt:e4.v1:1r
 - urn:cite2:hmt:e4.v1:1v
