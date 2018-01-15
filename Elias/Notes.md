@@ -9,7 +9,7 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:3.277-3.301
 - urn:cts:greekLit:tlg0012.tlg001.e4:5.770-5.771
 - urn:cts:greekLit:tlg0012.tlg001.e4:6.201-6.202
-- 
+- urn:cts:greekLit:tlg0012.tlg001.e4:7.8-7.10
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
@@ -42,6 +42,11 @@
 - urn:cite2:hmt:e4.v1:6v
 - urn:cite2:hmt:e4.v1:21v
 
+# Image Issues:
+- The image for urn:cite2:hmt:e4.v1:30v is upside down.
+- urn:cite2:hmt:e4.v1:59v has two images.
+- urn:cite2:hmt:e4.v1:66r and urn:cite2:hmt:e4.v1:66v appear to be missing. The image labelled as urn:cite2:hmt:e4.v1:67r begins Bk. 8, but urn:cite2:hmt:e4.v1:65v is commentary, so it's possible that two pages of commentary are missing or the labeling has gotten off-kilter.
+
 # Questions/Notes:
 - Is an outdent more important than rubrication? At urn:cts:greekLit:tlg0012.tlg001.e4:2.48 on urn:cite2:hmt:e4.v1:15v, there is an outdent, but the η is black. This is a spot where Willcock has a paragraph break. For now (1/1/18), I have considered it part of a larger paragraph because every other place I would consider the outdent a paragraph it is red.
 - I encountered a similar occurence at urn:cts:greekLit:tlg0012.tlg001.e4:2.484 on urn:cite2:hmt:e4.v1:21r:, but have    declined call it a paragraph break due to the lack of rubrication. It is marked in my list: Outdents without Rubrication. (1/10/18)
@@ -68,3 +73,4 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:5.778 on urn:cite2:hmt:e4.v1:49v has a variant reading to the standard text with αἱ in the place of τὼ. (1/12/18)
 - On urn:cite2:hmt:e4.v1:50v, urn:cts:greekLit:tlg0012.tlg001.e4:5.846 has been placed between urn:cts:greekLit:tlg0012.tlg001.e4:5.842 and urn:cts:greekLit:tlg0012.tlg001.e4:5.841. It is written in a slightly different hand. (1/12/18)
 - The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:5.872 on urn:cite2:hmt:e4.v1:51r is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/12/18)
+- The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:7.226 on urn:cite2:hmt:e4.v1:61v is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/14/18)
