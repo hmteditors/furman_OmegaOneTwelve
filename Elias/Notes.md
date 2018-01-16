@@ -13,6 +13,12 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:8.69-8.74
 - urn:cts:greekLit:tlg0012.tlg001.e4:8.233-8.235
 - urn:cts:greekLit:tlg0012.tlg001.e4:8.323-8.329
+- urn:cts:greekLit:tlg0012.tlg001.e4:9.356-9.361
+- urn:cts:greekLit:tlg0012.tlg001.e4:9.467-9.468
+- urn:cts:greekLit:tlg0012.tlg001.e4:9.479-9.483
+- urn:cts:greekLit:tlg0012.tlg001.e4:9.618-9.619
+- urn:cts:greekLit:tlg0012.tlg001.e4:9.650-9.655
+- urn:cts:greekLit:tlg0012.tlg001.e4:9.682-9.688
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
@@ -37,6 +43,10 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:8.550
 - urn:cts:greekLit:tlg0012.tlg001.e4:8.551
 - urn:cts:greekLit:tlg0012.tlg001.e4:8.552
+- urn:cts:greekLit:tlg0012.tlg001.e4:9.458
+- urn:cts:greekLit:tlg0012.tlg001.e4:9.459
+- urn:cts:greekLit:tlg0012.tlg001.e4:9.460
+- urn:cts:greekLit:tlg0012.tlg001.e4:9.461
 
 # Weird Marks:
 - Odd squared off mark in red ink to the left of urn:cts:greekLit:tlg0012.tlg001.e4:1.296
