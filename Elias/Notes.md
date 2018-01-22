@@ -19,6 +19,11 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:9.618-9.619
 - urn:cts:greekLit:tlg0012.tlg001.e4:9.650-9.655
 - urn:cts:greekLit:tlg0012.tlg001.e4:9.682-9.688
+- urn:cts:greekLit:tlg0012.tlg001.e4:10.274-10.277
+- urn:cts:greekLit:tlg0012.tlg001.e4:10.558-10.561
+- urn:cts:greekLit:tlg0012.tlg001.e4:11.636-11.637
+- urn:cts:greekLit:tlg0012.tlg001.e4:12.10-12.18
+- urn:cts:greekLit:tlg0012.tlg001.e4:12.127-12.155
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
@@ -47,6 +52,14 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:9.459
 - urn:cts:greekLit:tlg0012.tlg001.e4:9.460
 - urn:cts:greekLit:tlg0012.tlg001.e4:9.461
+- urn:cts:greekLit:tlg0012.tlg001.e4:10.191
+- urn:cts:greekLit:tlg0012.tlg001.e4:10.531
+- urn:cts:greekLit:tlg0012.tlg001.e4:11.543
+- urn:cts:greekLit:tlg0012.tlg001.e4:11.662
+
+# Insertions:
+- urn:cts:greekLit:tlg0012.tlg001.e4:12.162a
+
 
 # Weird Marks:
 - Odd squared off mark in red ink to the left of urn:cts:greekLit:tlg0012.tlg001.e4:1.296
@@ -107,3 +120,5 @@
 - The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:5.872 on urn:cite2:hmt:e4.v1:51r is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/12/18)
 - The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:7.226 on urn:cite2:hmt:e4.v1:61v is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/14/18)
 - Line urn:cts:greekLit:tlg0012.tlg001.e4:8.149 has been moved out of standard sequence to the bottom of urn:cite2:hmt:e4.v1:68v. I am unsure how to handle the line enumeration. (1/14/18)
+- There are three images of urn:cite2:hmt:e4.v1:90v. (1/22/18)
+- There are three images of urn:cite2:hmt:e4.v1:103v.	urn:cite2:hmt:e4img.2017a:e4_139 is an unusable image. (1/22/18)
