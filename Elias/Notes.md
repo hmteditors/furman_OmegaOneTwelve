@@ -24,6 +24,8 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:11.636-11.637
 - urn:cts:greekLit:tlg0012.tlg001.e4:12.10-12.18
 - urn:cts:greekLit:tlg0012.tlg001.e4:12.127-12.155
+- urn:cts:greekLit:tlg0012.tlg001.e4:13.276-13.287
+- urn:cts:greekLit:tlg0012.tlg001.e4:13.358-13.360
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
@@ -122,3 +124,4 @@
 - Line urn:cts:greekLit:tlg0012.tlg001.e4:8.149 has been moved out of standard sequence to the bottom of urn:cite2:hmt:e4.v1:68v. I am unsure how to handle the line enumeration. (1/14/18)
 - There are three images of urn:cite2:hmt:e4.v1:90v. (1/22/18)
 - There are three images of urn:cite2:hmt:e4.v1:103v.	urn:cite2:hmt:e4img.2017a:e4_139 is an unusable image. (1/22/18)
+- There are three images of urn:cite2:hmt:e4.v1:120v. (1/29/18)
