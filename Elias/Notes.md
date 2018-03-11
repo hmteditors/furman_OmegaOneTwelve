@@ -30,6 +30,8 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:15.147-15.148
 - urn:cts:greekLit:tlg0012.tlg001.e4:15.610-15.614
 - urn:cts:greekLit:tlg0012.tlg001.e4:15.668-15.670
+- urn:cts:greekLit:tlg0012.tlg001.e4:16.58-16.59
+- urn:cts:greekLit:tlg0012.tlg001.e4:16.61-16.62
 
 
 # Omissions:
@@ -132,3 +134,4 @@
 - There are three images of urn:cite2:hmt:e4.v1:90v. (1/22/18)
 - There are three images of urn:cite2:hmt:e4.v1:103v.	urn:cite2:hmt:e4img.2017a:e4_139 is an unusable image. (1/22/18)
 - There are three images of urn:cite2:hmt:e4.v1:120v. (1/29/18)
+- The brackets around urn:cts:greekLit:tlg0012.tlg001.e4:16.58-16.59 and urn:cts:greekLit:tlg0012.tlg001.e4:16.61-16.62 are faded and should be reexamined. (3/8/18)
