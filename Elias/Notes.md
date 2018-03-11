@@ -135,3 +135,4 @@
 - There are three images of urn:cite2:hmt:e4.v1:103v.	urn:cite2:hmt:e4img.2017a:e4_139 is an unusable image. (1/22/18)
 - There are three images of urn:cite2:hmt:e4.v1:120v. (1/29/18)
 - The brackets around urn:cts:greekLit:tlg0012.tlg001.e4:16.58-16.59 and urn:cts:greekLit:tlg0012.tlg001.e4:16.61-16.62 are faded and should be reexamined. (3/8/18)
+- There seems to be a folio missing from the image inventory. The full page images jump from line 544 to line 629, but in the margins of image for 143v, I can clearly read ἀεικίσσωσι, which is in line 545. (3/8/18?
