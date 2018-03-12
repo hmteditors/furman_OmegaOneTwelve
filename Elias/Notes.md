@@ -67,6 +67,8 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:11.662
 - urn:cts:greekLit:tlg0012.tlg001.e4:14.70
 - urn:cts:greekLit:tlg0012.tlg001.e4:15.481
+- urn:cts:greekLit:tlg0012.tlg001.e4:17.219
+- urn:cts:greekLit:tlg0012.tlg001.e4:17.586
 
 # Insertions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:12.162a
