@@ -34,6 +34,11 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:16.61-16.62
 - urn:cts:greekLit:tlg0012.tlg001.e4:18.308-18.309
 - urn:cts:greekLit:tlg0012.tlg001.e4:18.356-18.368
+- urn:cts:greekLit:tlg0012.tlg001.e4:19.221-19.224
+- urn:cts:greekLit:tlg0012.tlg001.e4:20.125-20.128
+- urn:cts:greekLit:tlg0012.tlg001.e4:20.180-20.185
+- urn:cts:greekLit:tlg0012.tlg001.e4:20.259-20.271
+- urn:cts:greekLit:tlg0012.tlg001.e4:20.322-20.324
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
@@ -72,6 +77,8 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:17.586
 - urn:cts:greekLit:tlg0012.tlg001.e4:18.201
 - urn:cts:greekLit:tlg0012.tlg001.e4:18.604
+- urn:cts:greekLit:tlg0012.tlg001.e4:19.177
+- urn:cts:greekLit:tlg0012.tlg001.e4:20.312
 - 
 
 # Insertions:
@@ -143,3 +150,5 @@
 - The brackets around urn:cts:greekLit:tlg0012.tlg001.e4:16.58-16.59 and urn:cts:greekLit:tlg0012.tlg001.e4:16.61-16.62 are faded and should be reexamined. (3/8/18)
 - There seems to be a folio missing from the image inventory. The full page images jump from line 544 to line 629, but in the margins of image for 143v, I can clearly read ἀεικίσσωσι, which is in urn:cts:greekLit:tlg0012.tlg001.e4:16.545. (3/8/18)
 - urn:cts:greekLit:tlg0012.tlg001.e4:18.33 is out of expected order on urn:cite2:hmt:e4.v1:158r. It appears at the end of the page after urn:cts:greekLit:tlg0012.tlg001.e4:18.38. (3/12/18)
+- There is a color shift on page urn:cite2:hmt:e4.v1:174v. (3/13/18)
+- urn:cts:greekLit:tlg0012.tlg001.e4:20.447 is out of sequence and appears at the bottom of urn:cite2:hmt:e4.v1:177v. (3/13/18)
