@@ -79,7 +79,9 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:18.604
 - urn:cts:greekLit:tlg0012.tlg001.e4:19.177
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.312
-- 
+- urn:cts:greekLit:tlg0012.tlg001.e4:21.434
+- urn:cts:greekLit:tlg0012.tlg001.e4:21.480
+- urn:cts:greekLit:tlg0012.tlg001.e4:21.510
 
 # Insertions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:12.162a
@@ -152,3 +154,4 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:18.33 is out of expected order on urn:cite2:hmt:e4.v1:158r. It appears at the end of the page after urn:cts:greekLit:tlg0012.tlg001.e4:18.38. (3/12/18)
 - There is a color shift on page urn:cite2:hmt:e4.v1:174v. (3/13/18)
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.447 is out of sequence and appears at the bottom of urn:cite2:hmt:e4.v1:177v. (3/13/18)
+- urn:cts:greekLit:tlg0012.tlg001.e4:21.385 is out of sequence and appears at the bottom of urn:cite2:hmt:e4.v1:183v. (3/13/18)
