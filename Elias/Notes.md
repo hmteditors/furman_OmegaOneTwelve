@@ -155,3 +155,4 @@
 - There is a color shift on page urn:cite2:hmt:e4.v1:174v. (3/13/18)
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.447 is out of sequence and appears at the bottom of urn:cite2:hmt:e4.v1:177v. (3/13/18)
 - urn:cts:greekLit:tlg0012.tlg001.e4:21.385 is out of sequence and appears at the bottom of urn:cite2:hmt:e4.v1:183v. (3/13/18)
+- There is a third missing image in book 22. The images jump from urn:cts:greekLit:tlg0012.tlg001.e4:22.232 to urn:cts:greekLit:tlg0012.tlg001.e4:22.311 from 190v to 191r. The missing lines can be read in the image margins of 190v. (3/13/18)
