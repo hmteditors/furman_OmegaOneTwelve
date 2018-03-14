@@ -39,6 +39,7 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.180-20.185
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.259-20.271
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.322-20.324
+- urn:cts:greekLit:tlg0012.tlg001.e4:23.862-23.871
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
