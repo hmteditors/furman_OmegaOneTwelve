@@ -40,6 +40,10 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.259-20.271
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.322-20.324
 - urn:cts:greekLit:tlg0012.tlg001.e4:23.862-23.871
+- urn:cts:greekLit:tlg0012.tlg001.e4:24.6-24.9
+- urn:cts:greekLit:tlg0012.tlg001.e4:24.20-24.21
+- urn:cts:greekLit:tlg0012.tlg001.e4:24.24-24.30
+- 
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
@@ -83,6 +87,8 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:21.434
 - urn:cts:greekLit:tlg0012.tlg001.e4:21.480
 - urn:cts:greekLit:tlg0012.tlg001.e4:21.510
+- urn:cts:greekLit:tlg0012.tlg001.e4:24.312
+- urn:cts:greekLit:tlg0012.tlg001.e4:24.693
 
 # Insertions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:12.162a
