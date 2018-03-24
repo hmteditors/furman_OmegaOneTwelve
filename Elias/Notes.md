@@ -119,11 +119,26 @@
 - urn:cite2:hmt:e4.v1:66r	(MISSING)
 - urn:cite2:hmt:e4.v1:66v (MISSING)
 - urn:cite2:hmt:e4.v1:74v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:84v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:92v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:110v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:147v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:171v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:178v (COMMENTARY) 
+- urn:cite2:hmt:e4.v1:187r (BLANK)
+- urn:cite2:hmt:e4.v1:187v (COMMENTARY)
+- urn:cite2:hmt:e4.v1:216v (NO IMAGE/BLANK)
 
 # Image Issues:
 - The image for urn:cite2:hmt:e4.v1:30v is upside down.
 - urn:cite2:hmt:e4.v1:59v has two images.
 - urn:cite2:hmt:e4.v1:66r and urn:cite2:hmt:e4.v1:66v appear to be missing. The image labelled as urn:cite2:hmt:e4.v1:67r begins Bk. 8, but urn:cite2:hmt:e4.v1:65v is commentary, so it's possible that two pages of commentary are missing or the labeling has gotten off-kilter. On further examination, this appears to be an off-by-one error. But, there is a mark in the upper right hand corner of the page labelled urn:cite2:hmt:e4.v1:67r that could be a number 67. Where are 66 recto and verso?
+- There are three images of urn:cite2:hmt:e4.v1:90v. (1/22/18)
+- There are three images of urn:cite2:hmt:e4.v1:103v.	urn:cite2:hmt:e4img.2017a:e4_139 is an unusable image. (1/22/18)
+- There are three images of urn:cite2:hmt:e4.v1:120v. (1/29/18)
+- There seems to be a folio missing from the image inventory. Between 122v and 123r, there is a jump from 14.77 to 14.156. (1/31/18)
+- There seems to be a folio missing from the image inventory. The full page images jump from line 544 to line 629, but in the margins of image for 143v, I can clearly read ἀεικίσσωσι, which is in urn:cts:greekLit:tlg0012.tlg001.e4:16.545. (3/8/18)
+- There is a third missing image in book 22. The images jump from urn:cts:greekLit:tlg0012.tlg001.e4:22.232 to urn:cts:greekLit:tlg0012.tlg001.e4:22.311 from 190v to 191r. The missing lines can be read in the image margins of 190v. (3/13/18)
 
 # Questions/Notes:
 - Is an outdent more important than rubrication? At urn:cts:greekLit:tlg0012.tlg001.e4:2.48 on urn:cite2:hmt:e4.v1:15v, there is an outdent, but the η is black. This is a spot where Willcock has a paragraph break. For now (1/1/18), I have considered it part of a larger paragraph because every other place I would consider the outdent a paragraph it is red.
@@ -153,13 +168,9 @@
 - The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:5.872 on urn:cite2:hmt:e4.v1:51r is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/12/18)
 - The first letter of line urn:cts:greekLit:tlg0012.tlg001.e4:7.226 on urn:cite2:hmt:e4.v1:61v is in a similar hand to the other paragraph capitals, but it is black. For now, I have ruled it an outdent without rubrication. It begins a speech. (1/14/18)
 - Line urn:cts:greekLit:tlg0012.tlg001.e4:8.149 has been moved out of standard sequence to the bottom of urn:cite2:hmt:e4.v1:68v. I am unsure how to handle the line enumeration. (1/14/18)
-- There are three images of urn:cite2:hmt:e4.v1:90v. (1/22/18)
-- There are three images of urn:cite2:hmt:e4.v1:103v.	urn:cite2:hmt:e4img.2017a:e4_139 is an unusable image. (1/22/18)
-- There are three images of urn:cite2:hmt:e4.v1:120v. (1/29/18)
 - The brackets around urn:cts:greekLit:tlg0012.tlg001.e4:16.58-16.59 and urn:cts:greekLit:tlg0012.tlg001.e4:16.61-16.62 are faded and should be reexamined. (3/8/18)
-- There seems to be a folio missing from the image inventory. The full page images jump from line 544 to line 629, but in the margins of image for 143v, I can clearly read ἀεικίσσωσι, which is in urn:cts:greekLit:tlg0012.tlg001.e4:16.545. (3/8/18)
 - urn:cts:greekLit:tlg0012.tlg001.e4:18.33 is out of expected order on urn:cite2:hmt:e4.v1:158r. It appears at the end of the page after urn:cts:greekLit:tlg0012.tlg001.e4:18.38. (3/12/18)
 - There is a color shift on page urn:cite2:hmt:e4.v1:174v. (3/13/18)
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.447 is out of sequence and appears at the bottom of urn:cite2:hmt:e4.v1:177v. (3/13/18)
 - urn:cts:greekLit:tlg0012.tlg001.e4:21.385 is out of sequence and appears at the bottom of urn:cite2:hmt:e4.v1:183v. (3/13/18)
-- There is a third missing image in book 22. The images jump from urn:cts:greekLit:tlg0012.tlg001.e4:22.232 to urn:cts:greekLit:tlg0012.tlg001.e4:22.311 from 190v to 191r. The missing lines can be read in the image margins of 190v. (3/13/18)
+
