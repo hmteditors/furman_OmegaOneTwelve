@@ -39,11 +39,11 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.180-20.185
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.259-20.271
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.322-20.324
+- urn:cts:greekLit:tlg0012.tlg001.e4:22.371
 - urn:cts:greekLit:tlg0012.tlg001.e4:23.862-23.871
 - urn:cts:greekLit:tlg0012.tlg001.e4:24.6-24.9
 - urn:cts:greekLit:tlg0012.tlg001.e4:24.20-24.21
 - urn:cts:greekLit:tlg0012.tlg001.e4:24.24-24.30
-- 
 
 # Omissions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:1.265
@@ -77,7 +77,10 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:11.543
 - urn:cts:greekLit:tlg0012.tlg001.e4:11.662
 - urn:cts:greekLit:tlg0012.tlg001.e4:14.70
+- urn:cts:greekLit:tlg0012.tlg001.e4:14.269
 - urn:cts:greekLit:tlg0012.tlg001.e4:15.481
+- urn:cts:greekLit:tlg0012.tlg001.e4:16.598
+- urn:cts:greekLit:tlg0012.tlg001.e4:16.
 - urn:cts:greekLit:tlg0012.tlg001.e4:17.219
 - urn:cts:greekLit:tlg0012.tlg001.e4:17.586
 - urn:cts:greekLit:tlg0012.tlg001.e4:18.201
@@ -87,12 +90,13 @@
 - urn:cts:greekLit:tlg0012.tlg001.e4:21.434
 - urn:cts:greekLit:tlg0012.tlg001.e4:21.480
 - urn:cts:greekLit:tlg0012.tlg001.e4:21.510
+
 - urn:cts:greekLit:tlg0012.tlg001.e4:24.312
 - urn:cts:greekLit:tlg0012.tlg001.e4:24.693
 
 # Insertions:
 - urn:cts:greekLit:tlg0012.tlg001.e4:12.162a
-
+- urn:cts:greekLit:tlg0012.tlg001.e4:16.611a
 
 # Weird Marks:
 - Odd squared off mark in red ink to the left of urn:cts:greekLit:tlg0012.tlg001.e4:1.296
@@ -173,4 +177,5 @@
 - There is a color shift on page urn:cite2:hmt:e4.v1:174v. (3/13/18)
 - urn:cts:greekLit:tlg0012.tlg001.e4:20.447 is out of sequence and appears at the bottom of urn:cite2:hmt:e4.v1:177v. (3/13/18)
 - urn:cts:greekLit:tlg0012.tlg001.e4:21.385 is out of sequence and appears at the bottom of urn:cite2:hmt:e4.v1:183v. (3/13/18)
-
+- urn:cts:greekLit:tlg0012.tlg001.e4:16.610 is out of sequence. It is followed by urn:cts:greekLit:tlg0012.tlg001.e4:16.611a at the bottom of 143bisv. (3/28/18)
+- urn:cts:greekLit:tlg0012.tlg001.e4:16.689 and urn:cts:greekLit:tlg0012.tlg001.e4:16.690 are out of seqence and appear at the bottom of 144v. (3/28/18)
