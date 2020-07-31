@@ -3,7 +3,7 @@
 Chapters:
  
  1.Introduction to Ducat
-  1. Comparisons to Ugarit
+      1. Comparisons to Ugarit
   2. Many to Many Alignments
   3. The Value of Versatility
   4. Multiple Levels (tokens, paragraphs, κτλ)
