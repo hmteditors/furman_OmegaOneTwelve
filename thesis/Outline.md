@@ -3,6 +3,7 @@
 Chapters:
  
  1.Introduction to Ducat
+       
        * Comparisons to Ugarit
        * Many to Many Alignments
        * The Value of Versatility
