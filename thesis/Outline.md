@@ -4,20 +4,20 @@ Chapters:
  
  1. Introduction to Ducat
        
-       - Comparisons to Ugarit
-       - Many to Many Alignments
-       - The Value of Versatility
-       - Multiple Levels (tokens, paragraphs, κτλ)
- 2. Intro to Texts
-       - Standard Iliad
-       - Omega 1.12
-           - Poetic Text
-           - Paraphrase
-           - Problems of Transcription
-    1. Style guide and examples of problems
-     1. Abbreviations
-     2. Hapax
-     3. General legibility
+       1. Comparisons to Ugarit
+       1. Many to Many Alignments
+       1. The Value of Versatility
+       1. Multiple Levels (tokens, paragraphs, κτλ)
+ 1. Intro to Texts
+       1. Standard Iliad
+       1. Omega 1.12
+           1. Poetic Text
+           1. Paraphrase
+           1. Problems of Transcription
+                 1. Style guide and examples of problems
+                 1. Abbreviations
+                 2. Hapax
+                 3. General legibility
   3. Translations
    1. Pope?
    2. Lombardo
