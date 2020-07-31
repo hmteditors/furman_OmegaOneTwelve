@@ -10,10 +10,10 @@ Chapters:
        - Multiple Levels (tokens, paragraphs, κτλ)
  2. Intro to Texts
        - Standard Iliad
-  2. Omega 1.12
-   1. Poetic Text
-   2. Paraphrase
-   3. Problems of Transcription
+       - Omega 1.12
+           - Poetic Text
+           - Paraphrase
+           - Problems of Transcription
     1. Style guide and examples of problems
      1. Abbreviations
      2. Hapax
