@@ -2,14 +2,14 @@
 
 Chapters:
  
- 1.Introduction to Ducat
+ 1. Introduction to Ducat
        
        - Comparisons to Ugarit
        - Many to Many Alignments
        - The Value of Versatility
-       1. Multiple Levels (tokens, paragraphs, κτλ)
+       - Multiple Levels (tokens, paragraphs, κτλ)
  2. Intro to Texts
-  1. Standard Iliad
+       - Standard Iliad
   2. Omega 1.12
    1. Poetic Text
    2. Paraphrase
